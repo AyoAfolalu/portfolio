@@ -252,7 +252,7 @@ text-decoration: none;
     .projectPic{
     
         transition: 0.3s;
-        width: 80%;
+        width: 100%;
         border-radius: 20px;
     }
     
@@ -272,12 +272,12 @@ text-decoration: none;
             border: 1px solid var(--color-headings);
             background: none;
             color: var(--color-headings);
-            width: 15%;
+            width: 40%;
             height: 30px;
             border-radius: 10px;
             overflow: hidden;
             margin-bottom: 3%;
-            font-size: 9px;
+            font-size: 12px;
     }
 
 }
@@ -450,12 +450,12 @@ text-decoration: none;
             border: 1px solid var(--color-headings);
             background: none;
             color: var(--color-headings);
-            width: 14%;
+            width: 40%;
             height: 30px;
             border-radius: 10px;
             overflow: hidden;
             margin-bottom: 3%;
-            font-size: 11px;
+            font-size: 12px;
     }
 
 }
@@ -966,7 +966,7 @@ text-decoration: none;
 .projectText{
     padding-top: 60px;
     text-align: left;
-    width: 60%;
+    width: 80%;
     line-height: 2em;
     }
     
@@ -1146,7 +1146,7 @@ text-decoration: none;
 .projectText{
 padding-top: 60px;
 text-align: left;
-width: 60%;
+width: 100%;
 line-height: 2em;
 }
 
